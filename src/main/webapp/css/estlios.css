@@ -1,0 +1,37 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 4/06/2021, 08:56:03 AM
+    Author     : RICARDO
+*/
+
+div {
+   font-family: monospace;
+   background: rgb(251,188,4);
+  
+}
+
+
+.titulo {
+    margin-top: 5em;
+   text-align:   initial;
+    color: blueviolet    
+}
+
+.rojo {
+    background-color: red;
+}
+
+.azul{
+    background-color:  blue;
+}
+
+
+#campo{
+    font-size: 20px;
+    background-color: blueviolet;
+}
+
